@@ -1,1 +1,5 @@
-# Machine-Learning-project
+Car Price Prediction Model
+
+This project aims to build a machine learning model to predict car prices based on various features. The dataset used in this project contains different car attributes like make, model, year, mileage, and more, with the goal of predicting the car's price in the US market. The project involves several steps including data preprocessing, implementing various regression models, evaluating model performance, and performing hyperparameter tuning for the best model. The five regression algorithms used in this project are Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Support Vector Regressor.
+
+The main objective of this project is to understand the factors influencing car prices and build an accurate model that can predict car prices effectively. The project also includes feature importance analysis to identify the most significant variables affecting car prices. Finally, hyperparameter tuning is performed to further optimize the models and improve performance. The final model is evaluated based on key metrics such as R-squared, Mean Squared Error (MSE), and Mean Absolute Error (MAE), helping the management understand the pricing dynamics of the American automobile market.
